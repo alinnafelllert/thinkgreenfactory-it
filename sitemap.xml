@@ -2,68 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://thinkgreenfactory.it/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/bonus/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/login/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/sitemap/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/about-us/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/contact-us/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/cookie-policy/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/privacy-policy/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/responsible-gambling/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://thinkgreenfactory.it/terms-and-conditions/</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://thinkgreenfactory.it/it-IT/</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
